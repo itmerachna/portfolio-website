@@ -1,0 +1,175 @@
+{
+  "slug": "boxout-fm",
+  "title": "boxout.fm",
+  "category": "Music & Events",
+  "description": "Boxout Wednesdays Identity Refresh & brand assets created for boxout.fm",
+  "thumbnail": "bfm-thumbnail.mp4",
+  "content": [{
+    "type": "text",
+    "value": "boxout.fm is a community-driven online radio platform born in New Delhi, dedicated to India's non-mainstream and genre-defying music culture. Launched in 2016, it presents programming hosted by passionate DJs and selectors, offering an authentic window into the country's diverse sonic landscape and beyond.<br /><br />Boxout Wednesdays, formerly India's longest-running midweek club night, played a crucial role in nurturing a vibrant, forward-thinking music and art community. I led the brand refreshnand developing its visual identity."
+  },
+  {
+    "type": "heading",
+    "value": "The Challenge & Initial Experiments"
+  },
+  {
+    "type": "text",
+    "value": "At a time when few were championing underground culture in India, Boxout Wednesdays brought cutting-edge DJs from around the world to Delhi week after week, creating a scene unlike anything else. The challenge was to create a new visual system that could be used across web and print, and also did justice to these incredible acts."
+  },
+  {
+    "type": "image",
+    "src": "init-exp-1.webp",
+    "caption": "Some initial explaratory ideas",
+    "aspectRatio": "2500:1309",
+    "fullWidth": true
+  },
+  {
+    "type": "text",
+    "value": "Some more ideas that were explored and discarded"
+  },
+  {
+    "type": "image",
+    "src": "init-exp-2.webp",
+    "aspectRatio": "2500:1309",
+    "fullWidth": true
+  },
+  {
+    "type": "image",
+    "src": "init-exp-3.webp",
+    "aspectRatio": "2500:1309",
+    "fullWidth": true
+  },
+  {
+    "type": "image",
+    "src": "init-exp-4.webp",
+    "aspectRatio": "2500:1309",
+    "fullWidth": true
+  },
+  {
+    "type": "heading",
+    "value": "The Visual Direction"
+  },
+  {
+    "type": "text",
+    "value": "I developed a bold flyer system using vibrant gradients and the headliner's portrait as the focal point, adapted for social media promotion and printed posters placed across the city to drive discovery and attendance."
+  },
+  {
+    "type": "video",
+    "src": "bfm-hero-gif.mp4",
+    "caption": "Rich gradients and hero images",
+    "aspectRatio": "2500:1309"
+  },
+  {
+    "type": "image",
+    "src": "dauwd.webp",
+    "caption": "Dauwd",
+    "aspectRatio": "2500:1309"
+  },
+  {
+    "type": "image",
+    "src": "sega-bodega.webp",
+    "caption": "Sega Bodega",
+    "aspectRatio": "2500:1309"
+  },
+  {
+    "type": "image",
+    "src": "molly.webp",
+    "caption": "Molly",
+    "aspectRatio": "2500:1309"
+  },
+  {
+    "type": "image",
+    "src": "daisuke-tanabe.webp",
+    "caption": "Daisuke Tanabe",
+    "aspectRatio": "2500:1309"
+  },
+  {
+    "type": "heading",
+    "value": "The Identity"
+  },
+  {
+    "type": "text",
+    "value": "The identity extended into weekly social media updates, with profile pictures and banners shifting to match each event's color theme. Those color palettes were also applied to supporting-act posts, creating a cohesive, easily recognizable campaign week after week."
+  },
+  {
+    "type": "video",
+    "src": "gif-2.mp4",
+    "caption": "Weekly profile pictures were updated scross socials",
+    "aspectRatio": "1:1",
+    "fullWidth": true
+  },
+  {
+    "type": "image",
+    "src": "banner.webp",
+    "caption": "Weekly banners were updated",
+    "aspectRatio": "1920:323",
+    "fullWidth": true
+  },
+  {
+    "type": "text",
+    "value": "I extended this identity to the social posts for promoting the local, supporting acts as well."
+  },
+  {
+    "type": "gallery",
+    "images": [
+      { "src": "post-1.webp", "caption": "Soopy" },
+      { "src": "post-2.webp", "caption": "Mo" },
+      { "src": "post-3.webp", "caption": "D80" },
+      { "src": "post-4.webp", "caption": "Nash" }
+    ],
+    "columns": 2
+  },
+  {
+    "type": "heading",
+    "value": "Radio Shows & Events"
+  },
+  {
+    "type": "text",
+    "value": "I also led the desigm development of multiple radio shows that aired on boxout.fm, events and partnerships that happened and other assets."
+  },
+  {
+    "type": "video",
+    "src": "gif-3.mp4",
+    "caption": "Logo designs for radio shows",
+    "aspectRatio": "16:9",
+    "fullWidth": true
+  },
+  {
+    "type": "gallery",
+    "images": [
+      { "src": "du.webp", "caption": "Duly Unruly Artwork" },
+      { "src": "br.webp", "caption": "Backyard Radio Artwork" },
+      { "src": "tgr.webp", "caption": "The Grey Room Artwork" },
+      { "src": "bof.webp", "caption": "Baba of Fire Artwork" },
+      { "src": "bfm-showcase.webp", "caption": "boxout.fm Showcase at Magnetic Fields" },
+      { "src": "nef.webp", "caption": "Neon East Fest" },
+      { "src": "ikigai.webp", "caption": "Ikigai Artwork" },
+      { "src": "budxmum.webp", "caption": "boxout.fm Showcase at BudX Mumbai" },
+      { "src": "tgr-tapas.webp", "caption": "The Grey Room Tapas Artwork" },
+      { "src": "slt.webp", "caption": "Spice Lab Tokyo Artwork" }
+    ],
+    "columns": 2
+  },
+  {
+    "type": "video",
+    "src": "sega-gif.mp4",
+    "caption": "Some other promotional posters made for marketing purposes",
+    "aspectRatio": "9:16",
+    "fullWidth": true
+  },
+  {
+    "type": "image",
+    "src": "img-1.webp",
+    "caption": "Weekly posters that were plastered in every nook possible",
+    "aspectRatio": "16:9",
+    "fullWidth": true
+  },
+  {
+    "type": "image",
+    "src": "img-2.webp",
+    "caption": "A glimpse into the gigs that brought everyone together",
+    "aspectRatio": "16:9",
+    "fullWidth": true
+  }
+]
+}

@@ -1,0 +1,176 @@
+{
+  "slug": "base-india",
+  "title": "Base India",
+  "category": "Crypto",
+  "description": "Visual systems & brand assets created for Base India",
+  "thumbnail": "bi-thumb.webp",
+  "content": [
+    {
+      "type": "text",
+      "value": "I led the creative strategy and built visual systems for marketing and socials that helped grew Base India's X presence from 0 to over 20k along with my incredible teammates working on their growth strategy. This involved logo designs, templates, assets for videos, merch and other print assets for in person events."
+    },
+    {
+      "type": "heading",
+      "value": "The Challenge"
+    },
+    {
+      "type": "text",
+      "value": "Every great project starts with a challenge. When I first came on to lend my expertise, Base India didn't exist. Base had just launched Base Around the World, and India was one of the participating regions (we joined the hackathon and won - more on that later!). This initiative became the catalyst for what would eventually become Base India.<br /><br />Due to compliance and legal guidelines, we couldn't brand Base India however we wanted. Instead, we had to work within the branding elements assigned to India at the time, which looked like this."
+    },
+    {
+      "type": "video",
+      "src": "bi-old.mp4",
+      "caption": "Initial exploration and assets",
+      "aspectRatio": "16:9"
+    },
+    {
+      "type": "heading",
+      "value": "Design Process"
+    },
+    {
+      "type": "text",
+      "value": "We went through many iterations of the same design base for socials, hackathons,<br />in-person events, print and other marketing efforts."
+    },
+    {
+      "type": "image",
+      "src": "batw-og.webp",
+      "caption": "The original design by Base",
+      "aspectRatio": "16:9",
+      "fullWidth": true
+    },
+    {
+      "type": "image",
+      "src": "ai-hackathon.webp",
+      "caption": "My iterated design",
+      "aspectRatio": "16:9",
+      "fullWidth": true
+    },
+    {
+      "type": "gallery",
+      "images": [
+        { "src": "based-pulse.webp", "caption": "Weekly updates from the ecosystem" },
+        { "src": "diwali.webp", "caption": "Topical posts" },
+        { "src": "qv.webp", "caption": "Builder centric hackathons" },
+        { "src": "opl.webp", "caption": "In-person event when Jesse visited" }
+      ],
+      "columns": 2
+    },
+    {
+      "type": "heading",
+      "value": "Design Evolution"
+    },
+    {
+      "type": "text",
+      "value": "We finally were able to get the green light from Base to move onto a more cohesive branding aligned with the parent branding.<br /><br />I was also getting tired of the purple gradient and didn't think it did us any justice.<br />I finally got to do what I do best. Play around with creative ideas. I heavily used Midjourney for a few of these. I created a specific illustration style that we could quickly iterate for posts especially the adhoc requirements."
+    },
+    {
+      "type": "gallery",
+      "images": [
+        { "src": "aerodrome.webp", "caption": "We did educational content" },
+        { "src": "better-onchain.webp", "caption": "Comic inspired" },
+        { "src": "builder-opps.webp", "caption": "More builder-centric content" },
+        { "src": "onboarding-arena.webp", "caption": "Initiatives to get the community more involved" },
+        { "src": "kaito.webp", "caption": "The info-fi era" },
+        { "src": "100-users.webp", "caption": "Ecosystem relevant posts" },
+        { "src": "lgh.webp", "caption": "Filler posts for when things didn't go as planned" },
+        { "src": "greatness.webp", "caption": "Comic inspired" },
+        { "src": "bth.webp", "caption": "Weekly Builders Townhall" },
+        { "src": "bp.webp", "caption": "Based Pulse adapted to the refreshed branding" }
+      ],
+      "columns": 2
+    },
+    {
+      "type": "heading",
+      "value": "Base Café Logo Design"
+    },
+    {
+      "type": "text",
+      "value": "Base Café is an IP under Base India, the Indian chapter of Base. Its goal is to spotlight builders, shippers, creators, and designers doing exciting things within the Base ecosystem. It began as a weekly livestream on X every Friday, but soon evolved into a more flexible schedule, going live whenever there’s exciting news to share or someone in the community to highlight. Here’s how I approached designing the logo and building the visual identity for this IP."
+    },
+    {
+      "type": "video",
+      "src": "base-cafe-anim.mp4",
+      "aspectRatio": "16:9"
+    },
+    {
+      "type": "text",
+      "value": "I knew I wanted the café aspect represented in the logo, so I started by exploring visuals in Midjourney. It quickly became clear that the café element needed to be subtle (hinting at streaming without feeling too literal) while also allowing the identity to easily expand into templates for future guest announcements and social posts."
+    },
+    {
+      "type": "image",
+      "src": "init-exp-1.webp",
+      "caption": "Initial exploration in Midjourney that was edited in Photoshop to adjust for brand colors",
+      "aspectRatio": "16:9"
+    },
+    {
+      "type": "text",
+      "value": "I chose a classic coffee mug as the base, but wanted it to be more expressive than just a cup. My mind immediately went to cats: curious, inquisitive, always exploring. A perfect fit for the spirit of the IP. I quickly sketched a few cat poses to see what worked best."
+    },
+    {
+      "type": "image",
+      "src": "init-exp-2.webp",
+      "caption": "Initial sketches for the cat poses",
+      "aspectRatio": "8:3"
+    },
+    {
+      "type": "text",
+      "value": "I decided the best direction was a minimal cat design holding a coffee mug,<br />as if intrigued by the wordmark - like, “Hey, what’s that?”"
+    },
+    {
+      "type": "video",
+      "src": "logo-evolution.mp4",
+      "caption": "Iterated the pose a bunch of times till I was happy with the tweaks",
+      "aspectRatio": "16:9"
+    },
+    {
+      "type": "image",
+      "src": "init-exp-3.webp",
+      "caption": "Finally brought it into Illustrator to vectorize, clean up and figure out the final font",
+      "aspectRatio": "8:3"
+    },
+    {
+      "type": "image",
+      "src": "font.webp",
+      "caption": "I chose RL Aqva (Black) as the final font. It had just the right amount of playfulness yet bold enough to demand attention",
+      "aspectRatio": "16:9"
+    },
+    {
+      "type": "text",
+      "value": "Finally, I added a small TV-box frame to bring everything together - a fun suggestion from Ahaan (from my team at the time). It was the missing piece that ensured the logo clearly conveyed a streaming IP. For the subtext, I chose BC Alphapipe as the font since its angles complemented the box’s extrusion perfectly."
+    },
+    {
+      "type": "image",
+      "src": "final-logo.webp",
+      "caption": "Final logo in the brand color",
+      "aspectRatio": "16:9"
+    },
+    {
+      "type": "heading",
+      "value": "Minibase: Base Around The World India Winner"
+    },
+    {
+      "type": "text",
+      "value": "Along with an incredible team, we won the Base Around The World India hackathon. We created Steam, but for<br />onchain games to help with discoverability and accessibility. Along with Sumedha, I designed the logo<br />and  visual identity for the project.<br /><br /> Team: Abhishek Bhagat, Ahaan Raizada, Sumedha Muralidhar & Snehal Shyamsukha"
+    },
+    {
+      "type": "image",
+      "src": "mb-1.webp",
+      "aspectRatio": "16:9"
+    },
+    {
+      "type": "image",
+      "src": "mb-2.webp",
+      "aspectRatio": "16:9"
+    },
+    {
+      "type": "image",
+      "src": "mb-3.webp",
+      "aspectRatio": "16:9"
+    },
+    {
+      "type": "image",
+      "src": "mb-4.webp",
+      "aspectRatio": "16:9"
+    }
+  ]
+}

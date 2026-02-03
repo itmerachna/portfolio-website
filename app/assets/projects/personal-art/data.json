@@ -1,0 +1,399 @@
+{
+  "slug": "personal-art",
+  "title": "Personal Art",
+  "category": "Art",
+  "description": "Personal art and creative explorations through digital illustrations",
+  "thumbnail": "art-thumb.mp4",
+  "content": [
+    {
+      "type": "text",
+      "value": "I led the visual development for all marketing and social assets including social posts, announcements, mascot character development, storyboarding for animation as well as animating the stickers for the Telegram community chat."
+    },
+    {
+      "type": "video",
+      "src": "art-hero.mp4",
+      "aspectRatio": "16:9",
+      "fullWidth": true
+    },
+    {
+      "type": "heading",
+      "value": "A Plea"
+    },
+    {
+      "type": "image",
+      "src": "a-plea.webp",
+      "aspectRatio": "1:1",
+      "fullWidth": true
+    },
+    {
+      "type": "gallery",
+      "images": [
+        { "src": "a-plea-1.webp" },
+        { "src": "a-plea-2.webp" },
+        { "src": "a-plea-3.webp" },
+        { "src": "a-plea-4.webp" }
+      ],
+      "columns": 2
+    },
+    {
+      "type": "heading",
+      "value": "Midnight Leapers"
+    },
+    {
+      "type": "image",
+      "src": "leapers.webp",
+      "aspectRatio": "1:1",
+      "fullWidth": true
+    },
+    {
+      "type": "gallery",
+      "images": [
+        { "src": "leapers-1.webp" },
+        { "src": "leapers-2.webp" },
+        { "src": "leapers-3.webp" },
+        { "src": "leapers-4.webp" }
+      ],
+      "columns": 2
+    },
+    {
+      "type": "heading",
+      "value": "MF DOOM"
+    },
+    {
+      "type": "image",
+      "src": "mfdoom.webp",
+      "aspectRatio": "1:1",
+      "fullWidth": true
+    },
+    {
+      "type": "gallery",
+      "images": [
+        { "src": "mfdoom-1.webp" },
+        { "src": "mfdoom-2.webp" },
+        { "src": "mfdoom-3.webp" },
+        { "src": "mfdoom-4.webp" }
+      ],
+      "columns": 2
+    },
+    {
+      "type": "heading",
+      "value": "Thoughts, Dreams, Plots & Schemes"
+    },
+    {
+      "type": "image",
+      "src": "thoughtsdreams.webp",
+      "aspectRatio": "1:1",
+      "fullWidth": true
+    },
+    {
+      "type": "gallery",
+      "images": [
+        { "src": "thoughtsdreams-1.webp" },
+        { "src": "thoughtsdreams-2.webp" },
+        { "src": "thoughtsdreams-3.webp" },
+        { "src": "thoughtsdreams-4.webp" }
+      ],
+      "columns": 2
+    },
+    {
+      "type": "heading",
+      "value": "Perico's Innerprize"
+    },
+    {
+      "type": "image",
+      "src": "perico1.webp",
+      "aspectRatio": "1:1",
+      "fullWidth": true
+    },
+    {
+      "type": "gallery",
+      "images": [
+        { "src": "perico1-1.webp" },
+        { "src": "perico1-2.webp" },
+        { "src": "perico1-3.webp" },
+        { "src": "perico1-4.webp" }
+      ],
+      "columns": 2
+    },
+    {
+      "type": "heading",
+      "value": "The Slept Kingdom"
+    },
+    {
+      "type": "image",
+      "src": "sleptkingdom.webp",
+      "aspectRatio": "1:1",
+      "fullWidth": true
+    },
+    {
+      "type": "gallery",
+      "images": [
+        { "src": "sleptkingdom-1.webp" },
+        { "src": "sleptkingdom-2.webp" },
+        { "src": "sleptkingdom-3.webp" },
+        { "src": "sleptkingdom-4.webp" }
+      ],
+      "columns": 2
+    },
+    {
+      "type": "heading",
+      "value": "MF DOOM"
+    },
+    {
+      "type": "image",
+      "src": "mfdoom2.webp",
+      "aspectRatio": "1:1",
+      "fullWidth": true
+    },
+    {
+      "type": "gallery",
+      "images": [
+        { "src": "mfdoom2-1.webp" },
+        { "src": "mfdoom2-2.webp" },
+        { "src": "mfdoom2-3.webp" },
+        { "src": "mfdoom2-4.webp" }
+      ],
+      "columns": 2
+    },
+    {
+      "type": "heading",
+      "value": "Overflow Like Mercury"
+    },
+    {
+      "type": "image",
+      "src": "mercury.webp",
+      "aspectRatio": "1:1",
+      "fullWidth": true
+    },
+    {
+      "type": "gallery",
+      "images": [
+        { "src": "mercury-1.webp" },
+        { "src": "mercury-2.webp" },
+        { "src": "mercury-3.webp" },
+        { "src": "mercury-4.webp" }
+      ],
+      "columns": 2
+    },
+    {
+      "type": "heading",
+      "value": "Third Eye Divine"
+    },
+    {
+      "type": "image",
+      "src": "thirdeye.webp",
+      "aspectRatio": "1:1",
+      "fullWidth": true
+    },
+    {
+      "type": "gallery",
+      "images": [
+        { "src": "thirdeye-1.webp" },
+        { "src": "thirdeye-2.webp" },
+        { "src": "thirdeye-3.webp" },
+        { "src": "thirdeye-4.webp" }
+      ],
+      "columns": 2
+    },
+    {
+      "type": "heading",
+      "value": "You Said I Could Call"
+    },
+    {
+      "type": "image",
+      "src": "call-me.webp",
+      "aspectRatio": "1:1",
+      "fullWidth": true
+    },
+    {
+      "type": "gallery",
+      "images": [
+        { "src": "call-me-1.webp" },
+        { "src": "call-me-2.webp" },
+        { "src": "call-me-3.webp" },
+        { "src": "call-me-4.webp" }
+      ],
+      "columns": 2
+    },
+    {
+      "type": "heading",
+      "value": "Guardians of the Dreamhouse, Protectors of My Heart"
+    },
+    {
+      "type": "image",
+      "src": "guardians.webp",
+      "aspectRatio": "1:1",
+      "fullWidth": true
+    },
+    {
+      "type": "gallery",
+      "images": [
+        { "src": "guardians-1.webp" },
+        { "src": "guardians-2.webp" },
+        { "src": "guardians-3.webp" },
+        { "src": "guardians-4.webp" }
+      ],
+      "columns": 2
+    },
+    {
+      "type": "heading",
+      "value": "The Dobermanns"
+    },
+    {
+      "type": "image",
+      "src": "dobermanns.webp",
+      "aspectRatio": "1:1",
+      "fullWidth": true
+    },
+    {
+      "type": "gallery",
+      "images": [
+        { "src": "dobermanns-1.webp" },
+        { "src": "dobermanns-2.webp" },
+        { "src": "dobermanns-3.webp" },
+        { "src": "dobermanns-4.webp" }
+      ],
+      "columns": 2
+    },
+    {
+      "type": "heading",
+      "value": "Untitled"
+    },
+    {
+      "type": "image",
+      "src": "untitled2.webp",
+      "aspectRatio": "1:1",
+      "fullWidth": true
+    },
+    {
+      "type": "gallery",
+      "images": [
+        { "src": "untitled2-1.webp" },
+        { "src": "untitled2-2.webp" },
+        { "src": "untitled2-3.webp" },
+        { "src": "untitled2-4.webp" }
+      ],
+      "columns": 2
+    },
+    {
+      "type": "heading",
+      "value": "Untitled"
+    },
+    {
+      "type": "image",
+      "src": "untitled.webp",
+      "aspectRatio": "1:1",
+      "fullWidth": true
+    },
+    {
+      "type": "gallery",
+      "images": [
+        { "src": "untitled-1.webp" },
+        { "src": "untitled-2.webp" },
+        { "src": "untitled-3.webp" },
+        { "src": "untitled-4.webp" }
+      ],
+      "columns": 2
+    },
+    {
+      "type": "heading",
+      "value": "JPEG"
+    },
+    {
+      "type": "image",
+      "src": "jpeg.webp",
+      "aspectRatio": "1:1",
+      "fullWidth": true
+    },
+    {
+      "type": "gallery",
+      "images": [
+        { "src": "jpeg-1.webp" },
+        { "src": "jpeg-2.webp" },
+        { "src": "jpeg-3.webp" },
+        { "src": "jpeg-4.webp" }
+      ],
+      "columns": 2
+    },
+    {
+      "type": "heading",
+      "value": "wimno"
+    },
+    {
+      "type": "image",
+      "src": "wimno.webp",
+      "aspectRatio": "1:1",
+      "fullWidth": true
+    },
+    {
+      "type": "gallery",
+      "images": [
+        { "src": "wimno-1.webp" },
+        { "src": "wimno-2.webp" },
+        { "src": "wimno-3.webp" },
+        { "src": "wimno-4.webp" }
+      ],
+      "columns": 2
+    },
+    {
+      "type": "heading",
+      "value": "Perico"
+    },
+    {
+      "type": "image",
+      "src": "perico2.webp",
+      "aspectRatio": "1:1",
+      "fullWidth": true
+    },
+    {
+      "type": "gallery",
+      "images": [
+        { "src": "perico2-1.webp" },
+        { "src": "perico2-2.webp" },
+        { "src": "perico2-3.webp" },
+        { "src": "perico2-4.webp" }
+      ],
+      "columns": 2
+    },
+    {
+      "type": "heading",
+      "value": "Chaos"
+    },
+    {
+      "type": "image",
+      "src": "chaos.webp",
+      "aspectRatio": "1:1",
+      "fullWidth": true
+    },
+    {
+      "type": "gallery",
+      "images": [
+        { "src": "chaos-1.webp" },
+        { "src": "chaos-2.webp" },
+        { "src": "chaos-3.webp" },
+        { "src": "chaos-4.webp" }
+      ],
+      "columns": 2
+    },
+    {
+      "type": "heading",
+      "value": "Don't Call Me"
+    },
+    {
+      "type": "image",
+      "src": "dont-call.webp",
+      "aspectRatio": "1:1",
+      "fullWidth": true
+    },
+    {
+      "type": "gallery",
+      "images": [
+        { "src": "dont-call-1.webp" },
+        { "src": "dont-call-2.webp" },
+        { "src": "dont-call-3.webp" },
+        { "src": "dont-call-4.webp" }
+      ],
+      "columns": 2
+    }
+  ]
+}

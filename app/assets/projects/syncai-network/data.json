@@ -1,0 +1,118 @@
+{
+  "slug": "syncai-network",
+  "title": "Mascot Design & Animation for SyncAI Network",
+  "category": "Crypto",
+  "description": "Mascot character development and static & animated stickers for Discord",
+  "thumbnail": "sync-thumb.mp4",
+  "content": [
+    {
+      "type": "text",
+      "value": "SyncAI is a one-click super dApp in the Cardano ecosystem that unifies your Web3 experience. It connects blockchains, dApps, and users behind the scenes, so everything works together seamlessly. It solves a key Web3 challenge: the lack of a unified communication layer."
+    },
+    {
+      "type": "video",
+      "src": "sync-chat-mock.mp4",
+      "aspectRatio": "16:9",
+      "fullWidth": true
+    },
+    {
+      "type": "heading",
+      "value": "The Brief"
+    },
+    {
+      "type": "text",
+      "value": "Create a cute and simple koala character that represents SyncAI. The mascot should feature the logo as a visible stamp or element in each pose. It must embody relatable crypto/degen culture: expressive, fun, and community-driven. The character will appear in various poses and moods to help users feel connected and part of the SyncAI community."
+    },
+    {
+      "type": "image",
+      "src": "init-exp-1.webp",
+      "caption": "Initial set of exploratory poses in the brand colors",
+      "aspectRatio": "16:9",
+      "fullWidth": true
+    },{
+      "type": "image",
+      "src": "init-exp-2.webp",
+      "caption": "Got some really positive feedback right out the gate and the client requested for some minor tweaks regarding the ears, elements and color",
+      "aspectRatio": "16:9",
+      "fullWidth": true
+    },
+    {
+      "type": "heading",
+      "value": "Approved Mascot Design"
+    },
+    {
+      "type": "text",
+      "value": "I got rid of any unnecessary elements and fluff to simplify it further. Gave the little fella some cute, rounded ears to match the rest of the aesthetic."
+    },
+    {
+      "type": "image",
+      "src": "app-1.webp",
+      "aspectRatio": "16:9",
+      "fullWidth": true
+    },
+    {
+      "type": "image",
+      "src": "app-2.webp",
+      "aspectRatio": "16:9",
+      "fullWidth": true
+    },
+    {
+      "type": "heading",
+      "value": "Static Telegram Stickers"
+    },
+    {
+      "type": "text",
+      "value": "Played into the koala's natural poses. Incorporated some crypto references and great, subtle usage of the logo."
+    },
+    {
+      "type": "image",
+      "src": "tg-1.webp",
+      "aspectRatio": "16:9",
+      "fullWidth": true
+    },
+    {
+      "type": "image",
+      "src": "tg-2.webp",
+      "aspectRatio": "16:9",
+      "fullWidth": true
+    },
+    {
+      "type": "heading",
+      "value": "Animated Stickers for the Telegram & Discord community"
+    },
+    {
+      "type": "text",
+      "value": "The challenge was."
+    },
+    {
+      "type": "video",
+      "src": "anim-1.mp4",
+      "aspectRatio": "16:9",
+      "fullWidth": true
+    },
+    {
+      "type": "video",
+      "src": "anim-2.mp4",
+      "aspectRatio": "1:1",
+      "fullWidth": true
+    },
+    {
+      "type": "video",
+      "src": "anim-3.mp4",
+      "aspectRatio": "1:1",
+      "fullWidth": true
+    },
+    {
+      "type": "video",
+      "src": "anim-4.mp4",
+      "aspectRatio": "16:9",
+      "fullWidth": true
+    },
+    {
+      "type": "video",
+      "src": "anim-5.mp4",
+      "aspectRatio": "16:9",
+      "fullWidth": true
+    }
+  ]
+}

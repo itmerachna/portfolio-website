@@ -1,0 +1,174 @@
+{
+  "slug": "decharge",
+  "title": "DeCharge",
+  "category": "Crypto",
+  "description": "Branding, marketing & social assets created for the Solana DePIN project DeCharge",
+  "thumbnail": "dc-thumb.mp4",
+  "content": [
+    {
+      "type": "text",
+      "value": "DeCharge is a decentralized EV charging network built on Solana. Powered by DePINFi, it lets EV drivers charge<br />anywhere while empowering people to own, host, or invest in charging stations.<br /><br />Following a brand refresh, their visual language needed to be updated across social platforms. I led the<br />creative development for this transition and built re-usable visual systems."
+    },
+    {
+      "type": "video",
+      "src": "full-vid.mp4",
+      "aspectRatio": "16:9",
+      "fullWidth": true
+    },
+    {
+      "type": "heading",
+      "value": "The First Challenge"
+    },
+    {
+      "type": "text",
+      "value": "When I first took responsibility for DeCharge, the brand refresh was still months away. There was no existing branding, system, or templates in place. Their X presence was bare-bones, featuring only the old logo.<br /><br />With no time to develop a full brand system upfront, it became essential to build one iteratively, day by day. I started with the logo's existing color palette and, within a couple of weeks, established a functional brand system. This system was later expanded and evolved using Midjourney."
+    },
+    {
+      "type": "image",
+      "src": "old-logo.webp",
+      "caption": "The old logo, which was the sole branded element at the time",
+      "aspectRatio": "16:9",
+      "fullWidth": true
+    },
+    {
+      "type": "gallery",
+      "images": [
+        { "src": "ap.webp", "caption": "The grid, teal and purple became recurring elements" },
+        { "src": "rp.webp", "caption": "I developed characters using Midjourney" },
+        { "src": "hny.webp", "caption": "Used EV cars as elements" },
+        { "src": "mtdao.webp", "caption": "Generated post relevant backgrounds using Midjourney" },
+        { "src": "dr-depin-1.webp", "caption": "Dr. DePIN character development" },
+        { "src": "dr-depin-2.webp", "caption": "The electric charge inspired by the logo became another recurring element" },
+        { "src": "xmas.webp" },
+        { "src": "pukecast.webp" },
+        { "src": "ignition.webp" },
+        { "src": "depin-spaces.webp" }
+      ],
+      "columns": 2
+    },
+    {
+      "type": "text",
+      "value": "Assets for simple animated clips and emailer assets"
+    },
+    {
+      "type": "image",
+      "src": "hyd-blr.webp",
+      "aspectRatio": "16:9",
+      "fullWidth": true
+    },
+    {
+      "type": "image",
+      "src": "referral.webp",
+      "aspectRatio": "1800:600",
+      "fullWidth": true
+    },
+    {
+      "type": "heading",
+      "value": "The Second Challenge"
+    },
+    {
+      "type": "text",
+      "value": "The second challenge emerged when the brand refresh finally landed and I received the new brand assets. The direction was the complete opposite of what I had built so far. While the new branding was exceptionally well executed, it meant rethinking and rebuilding systems entirely within a new set of constraints.<br /><br />I've always enjoyed a challenge, so I leaned into it. The refreshed identity was extremely chic and unmistakably premium, and I wanted to do it justice while still accounting for the speed required to produce daily assets. I returned to Midjourney to develop a new illustration style aligned with this direction.<br /><br />The result was a neo-futuristic illustration style, defined by a modern sheen and minimal elements, designed to scale quickly without compromising on quality."
+    },
+    {
+      "type": "image",
+      "src": "decharge-twitter.webp",
+      "caption": "The electric blue became the main defining character, everything else just played into it",
+      "aspectRatio": "5:3"
+    },
+    {
+      "type": "video",
+      "src": "gif-1.mp4",
+      "caption": "Social assets",
+      "aspectRatio": "16:9"
+    },
+    {
+      "type": "image",
+      "src": "med-banner.webp",
+      "caption": "Medium article banner",
+      "aspectRatio": "1200:630"
+    },
+    {
+      "type": "image",
+      "src": "beast-specs.webp",
+      "caption": "Beast specs highlighted for audience awareness",
+      "aspectRatio": "16:9"
+    },
+    {
+      "type": "image",
+      "src": "depin-alpha.webp",
+      "caption": "ETHDenver promo",
+      "aspectRatio": "16:9"
+    },
+    {
+      "type": "image",
+      "src": "eth-denver.webp",
+      "caption": "ETHDenver promo",
+      "aspectRatio": "16:9"
+    },
+    {
+      "type": "image",
+      "src": "funding-1.webp",
+      "caption": "Funding announcement",
+      "aspectRatio": "16:9"
+    },
+    {
+      "type": "image",
+      "src": "funding-2.webp",
+      "caption": "The investors",
+      "aspectRatio": "16:9"
+    },
+    {
+      "type": "image",
+      "src": "char-rev.webp",
+      "caption": "Teaser",
+      "aspectRatio": "16:9"
+    },
+    {
+      "type": "heading",
+      "value": "New Illustration Style Development"
+    },
+    {
+      "type": "text",
+      "value": "TTo support the refreshed brand direction, I developed a neo-futuristic illustration style built around rich electric blues and bold, titan-like characters. The visual language leans minimal yet powerful, using scale, contrast, and a refined sheen to establish a distinctly premium tone.<br /><br />The goal was to convey strength, confidence, and technical sophistication while maintaining a polished, premium aesthetic. The examples below showcase how I generated the images and then used the rough visuals to polish and match the new branding."
+    },
+    {
+      "type": "text",
+      "value": "I extended this identity to the social posts for promoting the local, supporting acts as well."
+    },
+    {
+      "type": "gallery",
+      "images": [
+        { "src": "tt-hire-1.webp" },
+        { "src": "tt-hire-2.webp" },
+        { "src": "titans-1.webp" },
+        { "src": "titans-2.webp" },
+        { "src": "gm-1.webp" },
+        { "src": "gm-2.webp" },
+        { "src": "depin-state-1.webp" },
+        { "src": "depin-state-2.webp" },
+        { "src": "future-1.webp" },
+        { "src": "future-2.webp" },
+        { "src": "holi-1.webp" },
+        { "src": "holi-2.webp" },
+        { "src": "gcharge-1.webp" },
+        { "src": "gcharge-2.webp" },
+        { "src": "depin-dine-1.webp" },
+        { "src": "depin-dine-2.webp" }
+      ],
+      "columns": 2
+    },
+    {
+      "type": "image",
+      "src": "depin-alpha-1.webp",
+      "aspectRatio": "16:9",
+      "fullWidth": true
+    },
+    {
+      "type": "image",
+      "src": "depin-alpha-2.webp",
+      "aspectRatio": "16:9",
+      "fullWidth": true
+    }
+  ]
+}

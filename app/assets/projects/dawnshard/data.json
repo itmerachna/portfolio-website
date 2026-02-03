@@ -1,0 +1,247 @@
+{
+  "slug": "dawnshard",
+  "title": "Dawnshard",
+  "category": "Crypto Game",
+  "description": "Marketing & visual assets",
+  "thumbnail": "dawnshard-thumb.mp4",
+  "content": [
+    {
+    "type": "text",
+    "value": "Dawnshard is a meta-breaking trading card game with AI-generated decks built on the Sei Network blockchain.<br /><br />I led the creative development for all their marketing efforts."
+  },
+  {
+    "type": "video",
+    "src": "hero.mp4",
+    "aspectRatio": "16:9",
+    "fullWidth": true
+  },
+  {
+    "type": "heading",
+    "value": "Design Frames for Neon Lending"
+  },
+  {
+    "type": "text",
+    "value": "As part of an educational series, I designed the static frames that my talented teammates later animated into short videos explaining key project concepts.<br /><br />The brand colors were adjusted to achieve better contrast and depth while maintaining a clean and vibrant aesthetic. All visuals were created in Illustrator and Figma as fully vectorized assets for smooth animation. Each element was separated into layers based on the animators’ requirements to ensure an efficient workflow."
+  },
+  {
+    "type": "image",
+    "src": "neon-scene-1.webp",
+    "caption": "Scene 1",
+    "aspectRatio": "16:9",
+    "fullWidth": true
+  },
+  {
+    "type": "image",
+    "src": "neon-scene-2.webp",
+    "caption": "Scene 2",
+    "aspectRatio": "16:9",
+    "fullWidth": true
+  },
+  {
+    "type": "image",
+    "src": "neon-scene-3.webp",
+    "caption": "Scene 3",
+    "aspectRatio": "16:9",
+    "fullWidth": true
+  },
+  {
+    "type": "image",
+    "src": "neon-scene-4.webp",
+    "caption": "Scene 4",
+    "aspectRatio": "16:9",
+    "fullWidth": true
+  },
+  {
+    "type": "image",
+    "src": "neon-scene-5.webp",
+    "caption": "Scene 5",
+    "aspectRatio": "16:9",
+    "fullWidth": true
+  },
+  {
+    "type": "image",
+    "src": "neon-scene-6.webp",
+    "caption": "Scene 6",
+    "aspectRatio": "16:9",
+    "fullWidth": true
+  },
+  {
+    "type": "video",
+    "src": "neon-lending.mp4",
+    "caption": "The video was animated by my talented teammate Chandan Mahanta",
+    "aspectRatio": "16:9",
+    "fullWidth": true
+  },
+  {
+    "type": "heading",
+    "value": "Design Frames for Basics of DeFi Options"
+  },
+  {
+    "type": "video",
+    "src": "defi-closeups.mp4",
+    "caption": "Some close snippets from the designs",
+    "aspectRatio": "16:9",
+    "fullWidth": true
+  },
+  {
+    "type": "image",
+    "src": "defi-scene-1.webp",
+    "caption": "Scene 1",
+    "aspectRatio": "16:9",
+    "fullWidth": true
+  },
+  {
+    "type": "image",
+    "src": "defi-scene-2.webp",
+    "caption": "Scene 2",
+    "aspectRatio": "16:9",
+    "fullWidth": true
+  },
+  {
+    "type": "image",
+    "src": "defi-scene-3.webp",
+    "caption": "Scene 3",
+    "aspectRatio": "16:9",
+    "fullWidth": true
+  },
+  {
+    "type": "image",
+    "src": "defi-scene-4.webp",
+    "caption": "Scene 4",
+    "aspectRatio": "16:9",
+    "fullWidth": true
+  },
+  {
+    "type": "image",
+    "src": "defi-scene-5.webp",
+    "caption": "Scene 5",
+    "aspectRatio": "16:9",
+    "fullWidth": true
+  },
+  {
+    "type": "image",
+    "src": "defi-scene-6.webp",
+    "caption": "Scene 6",
+    "aspectRatio": "16:9",
+    "fullWidth": true
+  },
+  {
+    "type": "video",
+    "src": "defi-basics.mp4",
+    "caption": "The video was animated by my talented teammate Sumedha Muralidhar",
+    "aspectRatio": "16:9",
+    "fullWidth": true
+  },
+  {
+    "type": "heading",
+    "value": "Accidental Mascot Design"
+  },
+  {
+    "type": "text",
+    "value": "I had to design a POAP for an AMA session done in partnership with Teller. I decided to create an animated POAP instead of a static one. The team was very pleased with the hamster character and so we decided to create an official mascot based around the character."
+  },
+  {
+    "type": "video",
+    "src": "poap.mp4",
+    "caption": "The POAP that led to the mascot development",
+    "aspectRatio": "1:1",
+    "fullWidth": true
+  },
+  {
+    "type": "text",
+    "value": "I developed an entire repository of the mascot 'Rocket' and it ended up being a regular asset in various designs and announcements."
+  },
+  {
+    "type": "video",
+    "src": "xamie-comp.mp4",
+    "aspectRatio": "16:9",
+    "fullWidth": true
+  },
+  {
+    "type": "heading",
+    "value": "Static Telegram Stickers"
+  },
+  {
+    "type": "text",
+    "value": "I created a whole pack of static Telegram stickers."
+  },
+  {
+    "type": "image",
+    "src": "static.webp",
+    "aspectRatio": "16:9",
+    "fullWidth": true
+  },
+  {
+    "type": "heading",
+    "value": "Animated Stickers for the Telegram & Discord community"
+  },
+  {
+    "type": "text",
+    "value": "The challenge was."
+  },
+  {
+    "type": "gallery",
+    "videos": [
+      { "src": "st-laying.mp4" },
+      { "src": "st-moon.mp4" },
+      { "src": "st-disco.mp4" },
+      { "src": "st-rocket.mp4" },
+      { "src": "st-logo.mp4" },
+      { "src": "st-shield.mp4" }
+    ],
+    "columns": 2
+  },
+  {
+    "type": "heading",
+    "value": "Some Key Assets Designed for Marketing"
+  },
+  {
+    "type": "image",
+    "src": "key-1.webp",
+    "aspectRatio": "16:9",
+    "fullWidth": true
+  },
+  {
+    "type": "image",
+    "src": "key-2.webp",
+    "aspectRatio": "16:9",
+    "fullWidth": true
+  },
+  {
+    "type": "image",
+    "src": "key-3.webp",
+    "aspectRatio": "16:9",
+    "fullWidth": true
+  },
+  {
+    "type": "image",
+    "src": "key-4.webp",
+    "aspectRatio": "16:9",
+    "fullWidth": true
+  },
+  {
+    "type": "image",
+    "src": "key-5.webp",
+    "aspectRatio": "16:9",
+    "fullWidth": true
+  },
+  {
+    "type": "image",
+    "src": "key-6.webp",
+    "aspectRatio": "16:9",
+    "fullWidth": true
+  },
+  {
+    "type": "image",
+    "src": "key-7.webp",
+    "aspectRatio": "16:9",
+    "fullWidth": true
+  },
+  {
+    "type": "image",
+    "src": "key-8.webp",
+    "aspectRatio": "16:9",
+    "fullWidth": true
+  }
+]
+}

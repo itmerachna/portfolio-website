@@ -1,0 +1,151 @@
+{
+  "slug": "suchi-india-tour",
+  "title": "SUCHI India Tour Identity",
+  "category": "Music & Events",
+  "description": "Identity and web & print assets created for SUCHI's India Tour",
+  "thumbnail": "suchi-thumb.mp4",
+  "content": [
+    {
+      "type": "text",
+      "value": "SUCHI, a globally-influenced DJ (Oslo-London-Delhi-NYC), returned to India for the third time with her eclectic blend of house, techno, electro, and acid. The tour was organized by District India.<br /><br />I designed the visual identity and all promotional materials. This included social media creatives, print posters, and merchandise - to reflect her dynamic, cross-cultural energy."
+    },
+    {
+      "type": "image",
+      "src": "bb-mock.webp",
+      "aspectRatio": "16:9",
+      "fullWidth": true
+    },
+    {
+      "type": "heading",
+      "value": "The Initial Explorations"
+    },
+    {
+      "type": "text",
+      "value": "Went through many, many, many iterations on the first few ideas."
+    },
+    {
+      "type": "image",
+      "src": "init-exp-1.webp",
+      "caption": "Batch 1",
+      "aspectRatio": "16:9",
+      "fullWidth": true
+    },{
+      "type": "image",
+      "src": "init-exp-2.webp",
+      "caption": "Batch 2",
+      "aspectRatio": "16:9",
+      "fullWidth": true
+    },{
+      "type": "image",
+      "src": "init-exp-3.webp",
+      "caption": "Batch 3",
+      "aspectRatio": "16:9",
+      "fullWidth": true
+    },
+    {
+      "type": "heading",
+      "value": "The Process"
+    },
+    {
+      "type": "text",
+      "value": "SUCHI wanted a very bold, graphic style combining rough textures and high contrast with minimal colors. The goal was to create a gritty, industrial feel. To achieve this I made a distorted portrait and rhythmic line patterns to evoke motion, noise, and feelings of underground electronic culture - blending techno aesthetics with a raw, poster-print edge.<br /><br />I started off with a minimal, vectorized version of her portrait."
+    },
+    {
+      "type": "image",
+      "src": "portrait-1.webp",
+      "aspectRatio": "16:9",
+      "fullWidth": true
+    },
+    {
+      "type": "text",
+      "value": "I then played around with the portrait to see what would work best. These ideas were discarded because when zoomed out, the details didn't make a lot of sense."
+    },
+    {
+      "type": "gallery",
+      "images": [
+        { "src": "port-1.webp" },
+        { "src": "port-2.webp" },
+        { "src": "port-3.webp" },
+        { "src": "port-4.webp" }
+      ],
+      "columns": 2
+    },
+    {
+      "type": "text",
+      "value": "I finally decided on this one because it had just enough distortion to meet the underground club feeling and also clear enough to be seen on a poster zoomed out."
+    },
+    {
+      "type": "image",
+      "src": "portrait-2.webp",
+      "caption": "I further distorted the minimal illustration and added texture and pattern",
+      "aspectRatio": "1:1",
+      "fullWidth": true
+    },
+    {
+      "type": "text",
+      "value": "The font was the final piece to tie everything together. I chose this really distorted font and tweaked it enough to match the rest of the visual language.ng techno aesthetics with a raw, poster-print edge."
+    },
+    {
+      "type": "image",
+      "src": "font.webp",
+      "aspectRatio": "16:9",
+      "fullWidth": true
+    },
+    {
+      "type": "heading",
+      "value": "The Final Poster"
+    },
+    {
+      "type": "text",
+      "value": "The result was a very raw and gritty visual language reminiscent of underground club sound that used screen-printed or DIY rave flyers with strong contrast, visible texture, and an intentionally raw finish."
+      },
+    {
+      "type": "image",
+      "src": "final.webp",
+      "caption": "The print poster",
+      "aspectRatio": "3:4",
+      "fullWidth": true
+    },
+    {
+      "type": "image",
+      "src": "final-sq.webp",
+      "caption": "Final design adapted for socials",
+      "aspectRatio": "1:1",
+      "fullWidth": true
+    },
+    {
+      "type": "image",
+      "src": "mural-mock.webp",
+      "aspectRatio": "16:9",
+      "fullWidth": true
+    },
+    {
+      "type": "image",
+      "src": "street-mock.webp",
+      "aspectRatio": "16:9",
+      "fullWidth": true
+    },
+    {
+      "type": "heading",
+      "value": "Merch"
+    },
+    {
+      "type": "text",
+      "value": "I also extended the visuals and turned them into merch that was sold at the different venues."
+    },
+    {
+      "type": "image",
+      "src": "merch-1.webp",
+      "caption": "Long sleeve shirt design",
+      "aspectRatio": "3:2",
+      "fullWidth": true
+    },
+    {
+      "type": "image",
+      "src": "merch-2.webp",
+      "caption": "Tote bag design",
+      "aspectRatio": "3:2",
+      "fullWidth": true
+    }
+  ]
+}

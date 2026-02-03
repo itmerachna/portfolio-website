@@ -1,0 +1,270 @@
+@import "tailwindcss";
+@import "@fontsource/stack-sans-notch/300.css";
+@import "tw-animate-css";
+
+@custom-variant dark (&:is(.dark *));
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+  --color-ring: var(--ring);
+  --color-input: var(--input);
+  --color-border: var(--border);
+  --color-destructive: var(--destructive);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-accent: var(--accent);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-muted: var(--muted);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-secondary: var(--secondary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-primary: var(--primary);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-popover: var(--popover);
+  --color-card-foreground: var(--card-foreground);
+  --color-card: var(--card);
+  --radius-sm: calc(var(--radius) - 4px);
+  --radius-md: calc(var(--radius) - 2px);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) + 4px);
+  --radius-2xl: calc(var(--radius) + 8px);
+  --radius-3xl: calc(var(--radius) + 12px);
+  --radius-4xl: calc(var(--radius) + 16px);
+}
+
+body {
+  font-family: var(--font-geist-sans), Arial, Helvetica, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+/* Global body copy */
+p {
+  font-family: var(--font-archivo), sans-serif;
+  font-size: 14px;
+  line-height: 1.5;
+  font-weight: 200;
+}
+
+/* Mono / UI text */
+code,
+pre,
+.mono,
+.font-mono {
+  font-family: var(--font-mono), monospace;
+}
+
+:root {
+  --radius: 0.625rem;
+  --background: oklch(1 0 0);
+  --foreground: oklch(0.145 0 0);
+  --card: oklch(1 0 0);
+  --card-foreground: oklch(0.145 0 0);
+  --popover: oklch(1 0 0);
+  --popover-foreground: oklch(0.145 0 0);
+  --primary: oklch(0.205 0 0);
+  --primary-foreground: oklch(0.985 0 0);
+  --secondary: oklch(0.97 0 0);
+  --secondary-foreground: oklch(0.205 0 0);
+  --muted: oklch(0.97 0 0);
+  --muted-foreground: oklch(0.556 0 0);
+  --accent: oklch(0.97 0 0);
+  --accent-foreground: oklch(0.205 0 0);
+  --destructive: oklch(0.577 0.245 27.325);
+  --border: oklch(0.922 0 0);
+  --input: oklch(0.922 0 0);
+  --ring: oklch(0.708 0 0);
+}
+
+.dark {
+  --background: oklch(0.145 0 0);
+  --foreground: oklch(0.985 0 0);
+  --card: oklch(0.205 0 0);
+  --card-foreground: oklch(0.985 0 0);
+  --popover: oklch(0.205 0 0);
+  --popover-foreground: oklch(0.985 0 0);
+  --primary: oklch(0.922 0 0);
+  --primary-foreground: oklch(0.205 0 0);
+  --secondary: oklch(0.269 0 0);
+  --secondary-foreground: oklch(0.985 0 0);
+  --muted: oklch(0.269 0 0);
+  --muted-foreground: oklch(0.708 0 0);
+  --accent: oklch(0.269 0 0);
+  --accent-foreground: oklch(0.985 0 0);
+  --destructive: oklch(0.704 0.191 22.216);
+  --border: oklch(1 0 0 / 10%);
+  --input: oklch(1 0 0 / 15%);
+  --ring: oklch(0.556 0 0);
+}
+
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
+  }
+  body {
+    @apply bg-background text-foreground;
+  }
+}
+
+/* ─────────────────────────────────────────────────────────────
+   Work page: frosted preview cards (scoped)
+   ───────────────────────────────────────────────────────────── */
+.work-page .cards {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 3rem;
+  justify-items: center;
+}
+
+@media (min-width: 768px) {
+  .work-page .cards {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    justify-items: stretch;
+  }
+}
+
+@media (min-width: 1024px) {
+  .work-page .cards {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+}
+
+.work-page .previewCard {
+  --gutter: 1.5rem;
+  --brightness: 0.85;
+  --saturation: 1.5;
+  --frostRadius: 1.725rem;
+
+  padding: var(--gutter);
+  border-radius: var(--gutter);
+  aspect-ratio: 4 / 3;
+  width: 100%;
+  max-width: 32rem;
+  display: grid;
+  justify-content: start;
+  align-content: end;
+  position: relative;
+  background: #333;
+  overflow: hidden;
+  cursor: pointer;
+  text-decoration: none;
+  transition: transform 250ms ease-in-out;
+}
+
+.work-page .previewCard img {
+  transition: transform 500ms ease-in-out;
+}
+
+.work-page .previewCard svg {
+  transition: transform 250ms ease-in-out;
+}
+
+.work-page .previewCard:hover {
+  transform: scale(1.05);
+}
+
+.work-page .previewCard:hover img.backdrop {
+  transform: scale(1.1);
+}
+
+.work-page .previewCard:hover .description span svg {
+  transform: scale(1.5);
+}
+
+.work-page .previewCard::after {
+  content: "";
+  position: absolute;
+  inset: -0.5rem;
+  z-index: 1;
+  pointer-events: none;
+  backdrop-filter: blur(var(--frostRadius)) saturate(var(--saturation))
+    brightness(var(--brightness));
+  background: linear-gradient(
+    to bottom,
+    rgba(0, 0, 0, 0) 0%,
+    rgba(0, 0, 0, 0.4) 100%
+  );
+  mix-blend-mode: multiply;
+  mask-image: linear-gradient(
+    to bottom,
+    transparent 0%,
+    rgba(0, 0, 0, 0.1) 40%,
+    rgba(0, 0, 0, 0.5) 55%,
+    black 75%
+  );
+}
+
+.work-page .backdrop {
+  position: absolute;
+  object-fit: cover;
+  pointer-events: none;
+  user-select: none;
+  width: 100%;
+  height: 100%;
+  inset: 0;
+}
+
+.work-page .content {
+  position: relative;
+  z-index: 2;
+  display: grid;
+  justify-content: start;
+  align-content: end;
+  gap: 1px;
+  color: #fff;
+}
+
+.work-page .title {
+  font-family: var(--font-archivo), sans-serif;
+  font-weight: 500;
+  font-size: 1.5rem;
+  margin-top: 0;
+}
+
+.work-page .category {
+  font-family: var(--font-archivo), sans-serif;
+  text-transform: uppercase;
+  font-weight: 800;
+  letter-spacing: 0.1rem;
+  opacity: 0.6;
+  font-size: 9px;
+}
+
+.work-page .description {
+  font-family: var(--font-archivo), sans-serif;
+  font-weight: 300;
+  font-size: 13px;
+  line-height: 1.0;
+  display: grid;
+  grid-template-columns: 1fr auto;
+  place-content: start;
+  gap: 0.1rem;
+  align-items: center;
+  margin-top: 2px;
+}
+
+.work-page .description p {
+  margin: 0;
+  font-size: inherit;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
+.work-page .description span {
+  display: grid;
+  place-items: center;
+  width: 2rem;
+  height: 1rem;
+}
+
+.work-page .description span svg {
+  width: 2rem;
+  height: 1rem;
+}
