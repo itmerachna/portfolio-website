@@ -83,7 +83,7 @@ export default function ContactPage() {
             style={{
               fontFamily: 'var(--font-archivo), sans-serif',
               fontWeight: 300,
-              fontSize: '32px',
+              fontSize: '48px',
               lineHeight: '1.2',
             }}
           >
