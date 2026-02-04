@@ -78,7 +78,7 @@ export default function ContactPage() {
 
           {/* Email */}
           <a
-            href="mailto:contactrachnaravi@gmail.com"
+            href="mailto:hello@rachnaravi.com"
             className="text-[#E2E2E2] hover:text-white transition-colors"
             style={{
               fontFamily: 'var(--font-archivo), sans-serif',
