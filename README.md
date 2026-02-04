@@ -1,7 +1,6 @@
 # Portfolio Website
-<br/>
 A personal evolving space for some boring design work and some fun experiments.
-<br/>
+<br/><br/>
 
 ![Hero](assets/hero-banner.png)
 
