@@ -1,6 +1,6 @@
-**Portfolio Website**
+# Portfolio Website
 
-A personal portfolio website built with Next.js 16, featuring an interactive liquid gradient WebGL background, smooth animations, and a modern dark aesthetic.
+A personal portfolio website built with Claude & Next.js 16, featuring an interactive liquid gradient WebGL background, smooth animations, and a modern dark aesthetic.
 
 **Features**
 - **Liquid Gradient Background** - Interactive Three.js WebGL animated gradient that responds to mouse/touch
