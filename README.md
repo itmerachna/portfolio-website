@@ -1,6 +1,5 @@
 # Portfolio Website
 <br/><br/>
-
 A personal evolving space for some boring design work and some fun experiments.
 <br/><br/>
 
@@ -28,3 +27,5 @@ A personal evolving space for some boring design work and some fun experiments.
 - **3D Graphics**: Three.js
 - **Language**: TypeScript
 - **Deployment**: Vercel
+
+</details>
