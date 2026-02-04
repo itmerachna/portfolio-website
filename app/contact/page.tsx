@@ -87,7 +87,7 @@ export default function ContactPage() {
               lineHeight: '1.2',
             }}
           >
-            contactrachnaravi@gmail.com
+            hello@rachnaravi.com
           </a>
 
           {/* Social dock */}
