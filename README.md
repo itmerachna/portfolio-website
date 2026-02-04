@@ -1,10 +1,13 @@
 # Portfolio Website
-![Hero](assets/hero-banner.png)
+<br/><br/>
 
 A personal evolving space for some boring design work and some fun experiments.
+<br/><br/>
 
-## Live Site
-rachnaravi.com
+![Hero](assets/hero-banner.png)
+
+
+## rachnaravi.com
 
 <details>
 <summary>Features</summary>
