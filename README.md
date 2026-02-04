@@ -1,5 +1,5 @@
 # Portfolio Website
-<br/><br/>
+<br/>
 A personal evolving space for some boring design work and some fun experiments.
 <br/><br/>
 
@@ -21,11 +21,11 @@ A personal evolving space for some boring design work and some fun experiments.
 
 <details>
 <summary>Tech Stack</summary>
-- **Framework**: Next.js 16
-- **Styling**: Tailwind CSS 4
-- **Animations**: Framer Motion, GSAP
-- **3D Graphics**: Three.js
-- **Language**: TypeScript
-- **Deployment**: Vercel
+- **Framework** - Next.js 16
+- **Styling** - Tailwind CSS 4
+- **Animations** - Framer Motion, GSAP
+- **3D Graphics** - Three.js
+- **Language** - TypeScript
+- **Deployment** - Vercel
 
 </details>
