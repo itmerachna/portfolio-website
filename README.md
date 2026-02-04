@@ -1,7 +1,7 @@
 # Portfolio Website
 <br/>
 A personal evolving space for some boring design work and some fun experiments.
-<br/><br/>
+<br/>
 
 ![Hero](assets/hero-banner.png)
 
@@ -21,6 +21,7 @@ A personal evolving space for some boring design work and some fun experiments.
 
 <details>
 <summary>Tech Stack</summary>
+  
 - **Framework** - Next.js 16
 - **Styling** - Tailwind CSS 4
 - **Animations** - Framer Motion, GSAP
