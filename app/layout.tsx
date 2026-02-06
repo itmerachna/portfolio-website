@@ -1,6 +1,7 @@
 import localFont from "next/font/local";
 import type { Metadata } from "next";
 import { Geist, Geist_Mono, Archivo, IBM_Plex_Mono } from "next/font/google";
+import Script from "next/script";
 import "./globals.css";
 import GradientWrapper from "./components/gradient-wrapper";
 import { Analytics } from "@vercel/analytics/next";
@@ -51,13 +52,26 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-<body
-  className={`${geistSans.variable} ${archivo.variable} ${trimMono.variable} antialiased`}
->
-  <GradientWrapper>{children}</GradientWrapper>
-  <Analytics />
-</body>
-
+      <head>
+        <Script
+          src="https://www.googletagmanager.com/gtag/js?id=G-TRSEZ6SLHB"
+          strategy="afterInteractive"
+        />
+        <Script id="google-analytics" strategy="afterInteractive">
+          {`
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'G-TRSEZ6SLHB');
+          `}
+        </Script>
+      </head>
+      <body
+        className={`${geistSans.variable} ${archivo.variable} ${trimMono.variable} antialiased`}
+      >
+        <GradientWrapper>{children}</GradientWrapper>
+        <Analytics />
+      </body>
     </html>
   );
 }
